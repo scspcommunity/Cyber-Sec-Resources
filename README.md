@@ -12,7 +12,7 @@ An organized list of resources including tools, blog-posts and how-to tutorials 
 Table of Contents
 =================
 * [Books](#books)
-* [Articles](#articles)
+* [Resources and Write-ups](#resources)
 * [Tools](#tools)
 * [How-to Tutorials](#tutorials)
 * [SCSP Seminar Presentation slides](#presentations)
@@ -22,8 +22,8 @@ Table of Contents
 <a name="books"></a>
 ##  Books [⤴](#table-of-contents)
 
-<a name="articles"></a>
-##  Articles [⤴](#table-of-contents)
+<a name="resources"></a>
+##  Resources and Write-ups [⤴](#table-of-contents)
 
 <a name="tools"></a>
 ## Tools [⤴](#table-of-contents)
