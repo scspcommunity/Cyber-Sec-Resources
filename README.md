@@ -1,8 +1,8 @@
-# Cyber Security Resources by SCSP.
+# Cyber Security Resources by SCSP
 
 An organized list of resources including tools, blog-posts and how-to tutorials compiled and created by Seasoned Cyber Security Professionals community members.
 
-[1.1]: https://i.imgur.com/PpXsPqR.png
+[1.1]: https://i.imgur.com/mWO1ozE.png
 [1]: https://www.facebook.com/scspcommunity/
 # Follow us on [![alt text][1.1]][1]
 
