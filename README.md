@@ -4,7 +4,11 @@ An organized list of resources including tools, blog-posts and how-to tutorials 
 
 [1.1]: https://i.ibb.co/tHpmq2T/facebook.jpg
 [1]: https://www.facebook.com/scspcommunity/
-# Follow us on [![alt text][1.1]][1]
+# Follow us on [![Facebook][1.1]][1]
+
+[2.2]: https://i.ibb.co/5L0bmq4/youtube.jpg
+[2]: https://www.youtube.com/channel/UCK4lNh0lm-N_2BQn66Uk1Xw
+# Follow us on [![YouTube][2.2]][2]
 
 Table of Contents
 =================
