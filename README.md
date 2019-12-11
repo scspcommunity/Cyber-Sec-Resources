@@ -11,15 +11,19 @@ An organized list of resources including tools, blog-posts and how-to tutorials 
 
 Table of Contents
 =================
-
+* [Books](#books)
 * [Resources and Write-ups](#resources)
 * [Tools](#tools)
 * [How-to Tutorials](#tutorials)
+* [SCSP Seminar Presentation slides](#presentations)
+* [Online Labs for Practice](#weblabs)
+* [Vulnerable Virtual Machines](#vuln_vms)
+
+<a name="books"></a>
+##  Books [⤴](#table-of-contents)
 
 <a name="resources"></a>
 ##  Resources and Write-ups [⤴](#table-of-contents)
-
-
 
 <a name="tools"></a>
 ## Tools [⤴](#table-of-contents)
@@ -27,3 +31,12 @@ Table of Contents
 <a name="tutorials"></a>
 ## How-to Tutorials [⤴](#table-of-contents)
 [Buffer Overflow](https://www.youtube.com/watch?v=1dL0U2OhvH0&list=PL7yUP1guJz7c6-A-fGo8-CXeAtCWNcj3m)
+
+<a name="presentations"></a>
+##  SCSP Seminar Presentations Slides [⤴](#table-of-contents)
+
+<a name="weblabs"></a>
+##  Online Labs for Practice [⤴](#table-of-contents)
+
+<a name="vuln_vms"></a>
+##  Vulnerable Virtual Machines [⤴](#table-of-contents)
