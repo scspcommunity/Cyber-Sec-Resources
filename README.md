@@ -45,7 +45,9 @@ Table of Contents
 <a name="tutorials"></a>
 ## How-to Tutorials [⤴](#table-of-contents)
 * [Buffer Overflow](https://www.youtube.com/watch?v=1dL0U2OhvH0&list=PL7yUP1guJz7c6-A-fGo8-CXeAtCWNcj3m)
+* [Kali Tools - Sublist3r](https://www.youtube.com/watch?v=ePZvh60zuWw)
 * [Kali Tools - EyeWitness](https://www.youtube.com/watch?v=x6gRIKlmPto&feature=youtu.be)
+* [Kali Tools - SQLMap](https://www.youtube.com/watch?v=AznTganeebU)
 
 <a name="presentations"></a>
 ##  SCSP Seminar Presentations Slides [⤴](#table-of-contents)
