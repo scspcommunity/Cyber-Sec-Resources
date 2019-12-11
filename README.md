@@ -52,6 +52,12 @@ Table of Contents
 
 <a name="weblabs"></a>
 ##  Online Labs for Practice [⤴](#table-of-contents)
+* [Buffer-Overflow Vulnerability Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Buffer_Overflow)<br>
+Launching an attack to exploit the buffer-overflow vulnerability using shellcode. 
+* [Race-Condition Vulnerability Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Race_Condition)<br>
+Exploiting the race condition vulnerability in privileged program. 
+* 
+
 
 <a name="vuln_vms"></a>
 ##  Vulnerable Virtual Machines [⤴](#table-of-contents)
