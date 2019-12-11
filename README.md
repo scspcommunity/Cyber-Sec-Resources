@@ -24,7 +24,7 @@ Table of Contents
 
 <a name="resources"></a>
 ##  Resources and Write-ups [⤴](#table-of-contents)
-[How Antivirus works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
+[How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
 
 [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
 
