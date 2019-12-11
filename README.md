@@ -21,12 +21,18 @@ Table of Contents
 
 <a name="books"></a>
 ##  Books [⤴](#table-of-contents)
-* [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
-* [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
-* [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
-* [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
-* [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
-* [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
+* Android Hacker's Handbook by Joshua J. Drake
+* The Browsers Hacker's Handbook by Wade Alcorn 
+* The Web Application Hackers Handbook by Dafydd Stuttard
+* Malware analysis cookbook - tools and techniques for fighting malicious code by Michael Ligh
+* Nmap Network Scanning by Gordon Fyodor Lyon
+* Wireshark Network Analysis by Laura Chappell
+* Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz
+* Penetration Testing - A Hands-On Introduction to Hacking by Georgia Weidman
+* The Basics of Hacking and Penetration Testing by Patrick Engebretson
+* The Hacker Playbook: Practical Guide To Penetration Testing by Peter Kim
+* Violent Python by TJ O'Connor
+* Ghost in the Wires - My Adventures as the World's Most Wanted Hacker by Kevin Mitnick, William L. Simon
 
 <a name="resources"></a>
 ##  Resources and Write-ups [⤴](#table-of-contents)
