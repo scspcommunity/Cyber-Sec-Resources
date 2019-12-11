@@ -56,7 +56,26 @@ Table of Contents
 Launching an attack to exploit the buffer-overflow vulnerability using shellcode. 
 * [Race-Condition Vulnerability Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Software/Race_Condition)<br>
 Exploiting the race condition vulnerability in privileged program. 
-* 
+* [TCP/IP Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/TCPIP)<br>
+Launching attacks to exploit the vulnerabilities of the TCP/IP protocol, including session hijacking, SYN flooding, TCP reset attacks, etc.
+* [Heartbleed Attack Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Heartbleed)<br>
+Using the heartbleed attack to steal secrets from a remote server.
+* [Packet Sniffing and Spoofing Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Networking/Sniffing_Spoofing)<br>
+Writing programs to sniff packets sent over the local network; writing programs to spoof various types of packets.
+* [From SQL Injection to Shell](https://pentesterlab.com/exercises/from_sqli_to_shell)<br>
+This exercise explains how to gain access to the admin console using SQL injection, gain access to the administration console. 
+* [Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester)<br>
+This exercise is a set of the most common web vulnerabilities.
+* [Electronic Code Book](https://pentesterlab.com/exercises/ecb)<br>
+This exercise explains how you can tamper with an encrypted cookies to access another user's account.
+* [XSS and MySQL FILE](https://pentesterlab.com/exercises/xss_and_mysql_file)<br>
+This exercise explains how you to get access to admin's cookies using Cross-Site Scripting vulnerability. And after gaining access use the admin panel to exploit a SQLi vulnerability.
+* [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA)
+Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
+* [OWASP Broken Web Applications Project](https://sourceforge.net/projects/owaspbwa/files/1.2/)
+Open Web Application Security Project (OWASP) Broken Web Applications Project, a collection of vulnerable web applications that people can practice their skills on.
+* [WebGoat](https://github.com/WebGoat/WebGoat)
+WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
 
 
 <a name="vuln_vms"></a>
