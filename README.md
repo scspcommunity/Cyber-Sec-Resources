@@ -2,7 +2,7 @@
 
 An organized list of resources including tools, blog-posts and how-to tutorials compiled and created by Seasoned Cyber Security Professionals community members.
 
-[1.1]: https://i.ibb.co/kKXjLJd/facebook.jpg
+[1.1]: https://i.ibb.co/tHpmq2T/facebook.jpg
 [1]: https://www.facebook.com/scspcommunity/
 # Follow us on [![alt text][1.1]][1]
 
