@@ -41,6 +41,7 @@ Table of Contents
 
 <a name="tools"></a>
 ## Tools [⤴](#table-of-contents)
+(Coming Soon)
 
 <a name="tutorials"></a>
 ## How-to Tutorials [⤴](#table-of-contents)
@@ -51,6 +52,7 @@ Table of Contents
 
 <a name="presentations"></a>
 ##  SCSP Seminar Presentations Slides [⤴](#table-of-contents)
+(Coming Soon)
 
 <a name="weblabs"></a>
 ##  Online Labs for Practice [⤴](#table-of-contents)
