@@ -15,9 +15,11 @@ Table of Contents
 * [Resources and Write-ups](#resources)
 * [Tools](#tools)
 * [How-to Tutorials](#tutorials)
-* [SCSP Seminar Presentation slides](#presentations)
 * [Online Labs for Practice](#weblabs)
 * [Vulnerable Virtual Machines](#vuln_vms)
+* [Online Exploit Development Resources](#exploit_dev)
+* [SCSP Seminar Presentation slides](#presentations)
+
 
 <a name="books"></a>
 ##  Books [⤴](#table-of-contents)
@@ -38,6 +40,8 @@ Table of Contents
 * Android Hacker's Handbook by Joshua J. Drake
 * The Mobile Application Hacker's Handbook by Dominic Chell
 * iOS Hacker's Handbook by Charlie Miller
+* OWASP Mobile Security Testing Guide (MSTG)
+* Exploiting Androids for Fun and Profit
 ### Web Application
 * The Web Application Hackers Handbook by Dafydd Stuttard
 * Hacking Web Apps: Detecting and Preventing Web Application Security Problems by Mike Shema
@@ -65,16 +69,17 @@ Table of Contents
 * Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz
 * Violent Python by TJ O'Connor
 
-* The Browsers Hacker's Handbook by Wade Alcorn 
 
 <a name="resources"></a>
 ##  Resources and Write-ups [⤴](#table-of-contents)
 * [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
 * [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
 
+
 <a name="tools"></a>
 ## Tools [⤴](#table-of-contents)
 (Coming Soon)
+
 
 <a name="tutorials"></a>
 ## How-to Tutorials [⤴](#table-of-contents)
@@ -83,9 +88,7 @@ Table of Contents
 * [Kali Tools - EyeWitness](https://www.youtube.com/watch?v=x6gRIKlmPto&feature=youtu.be)
 * [Kali Tools - SQLMap](https://www.youtube.com/watch?v=AznTganeebU)
 
-<a name="presentations"></a>
-##  SCSP Seminar Presentations Slides [⤴](#table-of-contents)
-(Coming Soon)
+
 
 <a name="weblabs"></a>
 ##  Online Labs for Practice [⤴](#table-of-contents)
@@ -107,6 +110,28 @@ This exercise is a set of the most common web vulnerabilities.
 This exercise explains how you can tamper with an encrypted cookies to access another user's account.
 * [XSS and MySQL FILE](https://pentesterlab.com/exercises/xss_and_mysql_file)<br>
 This exercise explains how you to get access to admin's cookies using Cross-Site Scripting vulnerability. And after gaining access use the admin panel to exploit a SQLi vulnerability.
+* [Pentester Lab](https://pentesterlab.com)<br>
+Pentester Labs contains a wide variety to practice web based vulnerabilities.
+* [Port Swigger Web Security Academy](https://portswigger.net/web-security)<br>
+Designed by the creators of Burp Suite, the Web Security Academy is a free online training center for web application security.
+* [Acunetix ASP Test](http://testasp.vulnweb.com)<br>
+Acunetix ASP test and demonstration site
+* [Acunetix ASP.NET Test](http://testaspnet.vulnweb.com)<br>
+Acunetix ASP.Net test and demonstration site
+* [Acunetix PHP Test](http://testphp.vulnweb.com)<br>
+Acunetix PHP test and demonstration site
+* [Hack this Site](https://www.hackthissite.org/)<br>
+A website designed where ethical hackers can legally test out their skills
+* [Secret Key Encryption Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Encryption)<br>
+Exploring the secret-key encryption and its applications using OpenSSL.
+* [One-Way Hash Function Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_Hash)<br>
+Exploring one-way hash function and its applications using OpenSSL.
+* [Public-Key Cryptography and PKI Lab](http://www.cis.syr.edu/~wedu/seed/Labs_12.04/Crypto/Crypto_PublicKey)<br>
+Exploring public-key cryptography, digital signature, certificate, and PKI using OpenSSL.
+* [Android Repackaging Lab](http://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Repackaging)<br>
+Insert malicious code inside an existing Android app, and repackage it.
+* [Android Device Rooting Lab](http://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Rooting)<br>
+Develop an OTA (Over-The-Air) package from scratch to root an Android device.
 
 
 
@@ -118,3 +143,39 @@ Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is vu
 Open Web Application Security Project (OWASP) Broken Web Applications Project, a collection of vulnerable web applications that people can practice their skills on.
 * [WebGoat](https://github.com/WebGoat/WebGoat)<br>
 WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
+* [OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd)<br>
+The OWASP Security Shepherd project is a web and mobile application security training platform. 
+* [Vulnhub](https://www.vulnhub.com/)<br>
+A collection of vulnerable machines to practice on. You can download the vulnerable vms on your system and learn pentesting
+* [Hack the box](https://www.hackthebox.eu/)<br>
+A collection of vulnerable machines and challenges
+
+
+<a name="exploit_dev"></a>
+## Online Exploit Development Resources
+* [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
+* [Shellcode Examples](http://shell-storm.org/shellcode/) - Shellcodes database.
+* [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
+
+
+<a name="vuln_db"></a>
+## Vulnerability Databases
+List of resources containing known list of exploits and common vulnerabilities found in softwares, OS, Mobile applications, CMS etc. 
+* [Bugtraq (BID)](http://www.securityfocus.com/bid/) 
+* [Common Vulnerabilities and Exposures (CVE)](https://cve.mitre.org/) 
+* [Distributed Weakness Filing (DWF)](https://distributedweaknessfiling.org/) 
+* [Exploit-DB](https://www.exploit-db.com/) 
+* [Full-Disclosure](http://seclists.org/fulldisclosure/)
+* [Inj3ct0r](https://www.0day.today/) 
+* [Microsoft Security Advisories](https://technet.microsoft.com/en-us/security/advisories#APUMA) 
+* [Microsoft Security Bulletins](https://technet.microsoft.com/en-us/security/bulletins#sec_search) 
+* [Mozilla Foundation Security Advisories](https://www.mozilla.org/security/advisories/) 
+* [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
+* [Vulnerability Lab](https://www.vulnerability-lab.com/) 
+* [Zero Day Initiative](http://zerodayinitiative.com/advisories/published/) 
+
+
+
+<a name="presentations"></a>
+##  SCSP Seminar Presentations Slides [⤴](#table-of-contents)
+(Coming Soon)
