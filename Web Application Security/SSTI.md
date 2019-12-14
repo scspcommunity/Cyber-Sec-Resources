@@ -4,6 +4,8 @@
 * apt-get install python-pip
 * pip install flask
 * pip install jinja2
+* export FLASK_APP=ssti-lab.py
+* flask run
 
 # Original Blog:
 https://portswigger.net/research/server-side-template-injection
