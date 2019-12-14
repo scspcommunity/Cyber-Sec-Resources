@@ -1,9 +1,9 @@
 # Requirements
 
-1- apt-get install python
-2- apt-get install python-pip
-3- pip install flask
-4- pip install jinja2
+* apt-get install python
+* apt-get install python-pip
+* pip install flask
+* pip install jinja2
 
 # Original Blog:
 https://portswigger.net/research/server-side-template-injection
