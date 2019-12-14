@@ -6,8 +6,10 @@
 * pip install jinja2
 
 # Steps:
+* Download lab file 
 * export FLASK_APP=ssti-lab.py
 * flask run
+* http://127.0.0.1:5000
 
 # Original Blog:
 https://portswigger.net/research/server-side-template-injection
