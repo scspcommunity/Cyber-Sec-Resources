@@ -10,18 +10,12 @@ https://portswigger.net/research/server-side-template-injection
 
 # Web Template Engines
 
-* FreeMarker
-	Java-based template engine
-* Velocity
-	Java-based template engine
-* Smarty
-	PHP Template engine
-* Twig
-	PHP Template engine
-* Jade 
-	Node.js Template engine
-* Jinja2
-	Python/Flask Template engine
+* FreeMarker - Java-based template engine
+* Velocity - Java-based template engine
+* Smarty - PHP Template engine
+* Twig - PHP Template engine
+* Jade - Node.js Template engine
+* Jinja2 - Python/Flask Template engine
 
 # Basic Payload
 
