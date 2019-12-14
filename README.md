@@ -74,6 +74,7 @@ Table of Contents
 ##  Resources and Write-ups [⤴](#table-of-contents)
 * [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
 * [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
+* [Server Side Template Injection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Web%20Application%20Security/SSTI.md)
 
 
 <a name="tools"></a>
