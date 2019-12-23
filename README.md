@@ -77,6 +77,7 @@ Table of Contents
 * [Server Side Template Injection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Web%20Application%20Security/SSTI.md)
 * [Snort Installation on Kali Linux](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Snort-Kali-linux-installation-guide.pdf)
 * [Detection of DoS Attack via Snort](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Snort-Working-PoC.pdf)
+* [Data Privacy and Protection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Data%20Protection%20and%20Privacy%20v2.0.pptx)
 
 
 <a name="tools"></a>
@@ -90,6 +91,13 @@ Table of Contents
 * [Kali Tools - Sublist3r](https://www.youtube.com/watch?v=ePZvh60zuWw)
 * [Kali Tools - EyeWitness](https://www.youtube.com/watch?v=x6gRIKlmPto&feature=youtu.be)
 * [Kali Tools - SQLMap](https://www.youtube.com/watch?v=AznTganeebU)
+* [Kali Tools - GoBuster](https://www.youtube.com/watch?v=wlhuAmN_HQg)
+* [Kali Tools - JoomScan](https://www.youtube.com/watch?v=cT4dMwuk7Gs)
+* [Kali Tools - HTTPProbe](https://www.youtube.com/watch?v=nQs5Bw7ErcU)
+* [Kali Tools - Nikto](https://www.youtube.com/watch?v=-H17ZqCZcAU)
+* [Kali Tools - CherryTree](https://youtu.be/vlmlb2kqbfo)
+* [Kali Tools - Davtest](https://www.youtube.com/watch?v=fyubocGC8iY)
+* [Kali Tools - DNSEnum](https://youtu.be/aoCHj0Eh5JA)
 
 
 
