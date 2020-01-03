@@ -17,7 +17,7 @@ An overview of what is the World Wide Web and how it works.<br><br>
 HyperText Transfer Protocol is must to understand while learning Web Application Security.
 You must learn how an application communicates with its end users and the servers it is hosted on. 
 From these links you can HTTP Protocols, HTTP Requests, Response, Status Codes, Encoding/Decoding, HTTP with a  security perspective e.g SOP, Cookies, MIEM etc. 
-These will be helpful you later on with Web application testing.
+These will be helpful to you later on with Web application testing.
 <br><br>
 
 > https://www.w3.org/Protocols/<br>
