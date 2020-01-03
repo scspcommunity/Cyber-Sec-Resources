@@ -18,7 +18,7 @@ Table of Contents
 * [How-to Tutorials](#tutorials)
 * [Online Labs for Practice](#weblabs)
 * [Vulnerable Virtual Machines](#vuln_vms)
-* [Online Exploit Development Resources](#exploit_dev)
+* [Exploit Development Resources](#exploit_dev)
 * [SCSP Seminar Presentation slides](#presentations)
 
 
@@ -168,7 +168,7 @@ A collection of vulnerable machines and challenges
 
 
 <a name="exploit_dev"></a>
-## Online Exploit Development Resources [⤴](#table-of-contents)
+## Exploit Development Resources [⤴](#table-of-contents)
 * [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
 * [Shellcode Examples](http://shell-storm.org/shellcode/) - Shellcodes database.
 * [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
