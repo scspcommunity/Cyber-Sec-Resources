@@ -1,4 +1,4 @@
-# How-to Tutorials [⤴](#table-of-contents)
+# How-to Tutorials 
 
 ### Back [⤴](https://github.com/scsp-community/Cyber-Sec-Resources)
 
