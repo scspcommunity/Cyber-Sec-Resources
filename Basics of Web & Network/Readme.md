@@ -5,7 +5,7 @@
 
 
 ## Web
-An ooverview of what is the World Wide Web and how it works.<br><br>
+An overview of what is the World Wide Web and how it works.<br><br>
 
 > https://www.tutorialspoint.com/web_developers_guide/web_basic_concepts.htm<br>
 > https://developers.google.com/web/fundamentals/security/<br>
