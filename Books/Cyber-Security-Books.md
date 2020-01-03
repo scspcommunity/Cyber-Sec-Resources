@@ -1,6 +1,6 @@
 # LIST OF BOOKS COMPLIED ON DIFFERENT VERTICES OF CYBER SECURITY
 
-##  Books [⤴](#table-of-contents)
+##  Books [⤴](https://github.com/scsp-community/Cyber-Sec-Resources#books)
 ### Network Analysis
 * Nmap Network Scanning by Gordon Fyodor Lyon
 * Wireshark Network Analysis by Laura Chappell
