@@ -13,3 +13,6 @@
 * [Kali Tools - CherryTree](https://youtu.be/vlmlb2kqbfo)
 * [Kali Tools - Davtest](https://www.youtube.com/watch?v=fyubocGC8iY)
 * [Kali Tools - DNSEnum](https://youtu.be/aoCHj0Eh5JA)
+* [Kali Tools - Searchsploit and ExploitDB]9https://www.youtube.com/watch?v=xxbsZVoTpGs)
+* [Kali Tools - Enum4Linux](https://www.youtube.com/watch?v=1rxggQlPCBo&t=7s)
+* [Kali tools - URLCrazy](https://www.youtube.com/watch?v=fxCgBHaO6Yg)
