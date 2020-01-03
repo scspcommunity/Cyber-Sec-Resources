@@ -14,6 +14,7 @@ Table of Contents
 * [Books](#books)
 * [Resources and Write-ups](#resources)
 * [Tools](#tools)
+* [Capture The Flag Walk-throughs](#ctf)
 * [How-to Tutorials](#tutorials)
 * [Online Labs for Practice](#weblabs)
 * [Vulnerable Virtual Machines](#vuln_vms)
@@ -75,15 +76,19 @@ Table of Contents
 * [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
 * [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
 * [Server Side Template Injection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Web%20Application%20Security/SSTI.md)
-* [Snort Installation on Kali Linux](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Snort-Kali-linux-installation-guide.pdf)
-* [Detection of DoS Attack via Snort](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Snort-Working-PoC.pdf)
-* [Data Privacy and Protection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Data%20Protection%20and%20Privacy%20v2.0.pptx)
+* [Snort Installation on Kali Linux](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Installation%20Guide.pdf)
+* [Detection of DoS Attack via Snort](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Working%20PoC.pdf)
+* [Data Privacy and Protection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Data%20Protection/Data%20Protection%20and%20Privacy.pptx)
 
 
 <a name="tools"></a>
 ## Tools [⤴](#table-of-contents)
 (Coming Soon)
 
+
+<a name="ctf"></a>
+## Capture The Flag Walk-throughs [⤴](#table-of-contents)
+* [Basic Pentesting 1](https://www.youtube.com/watch?v=yfGj0yyG5KE)
 
 <a name="tutorials"></a>
 ## How-to Tutorials [⤴](#table-of-contents)
