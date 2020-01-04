@@ -17,7 +17,7 @@ Table of Contents
 * [Resources and Write-ups](#resources)
 * [Data Protection](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Data%20Protection)
 * [Exploit Development Resources](#exploit_dev)
-* [Tools](tools)
+* [Tools](#tools)
 * [Web Application Security](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Web%20Application%20Security)
 * [How-to Tutorials](#tutorials)
 * [Capture The Flag Walk-throughs](#ctf)
