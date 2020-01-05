@@ -20,6 +20,18 @@
 * iOS Hacker's Handbook by Charlie Miller
 * OWASP Mobile Security Testing Guide (MSTG)
 * Exploiting Androids for Fun and Profit
+* SEI CERT Android Secure Coding Standard
+* Android Security Internals
+* Android Cookbook
+* Android Security Cookbook
+* * Android Malware and Analysis
+* Android Security: Attacks and Defenses
+* Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It
+* iOS Penetration Testing
+* iOS App Security, Penetration Testing, and Development
+* Hacking iOS Applications a detailed testing guide
+* Develop iOS Apps (Swift)
+* iOS Programming Cookbook
 ### Web Application
 * The Web Application Hackers Handbook by Dafydd Stuttard
 * Hacking Web Apps: Detecting and Preventing Web Application Security Problems by Mike Shema
