@@ -43,4 +43,29 @@ Exploring public-key cryptography, digital signature, certificate, and PKI using
 Insert malicious code inside an existing Android app, and repackage it.
 * [Android Device Rooting Lab](http://www.cis.syr.edu/~wedu/seed/Labs_Android5.1/Android_Rooting)<br>
 Develop an OTA (Over-The-Air) package from scratch to root an Android device.
+* [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
+* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
+* [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA)
+* [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs)
+* [iOS-Attack-Defense](https://github.com/ManicodeSecurity/iOS-Attack-Defense)
+* [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
+* [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
+* [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
+* [OWASP-mstg](https://github.com/OWASP/owasp-mstg/tree/master/Crackmes)
+* [VulnerableAndroidAppOracle](https://github.com/dan7800/VulnerableAndroidAppOracle)
+* [Android InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Purposefully Insecure and Vulnerable Android Application (PIIVA)](https://github.com/htbridge/pivaa)
+* [Sieve app](https://github.com/mwrlabs/drozer/releases/download/2.3.4/sieve.apk)
+* [DodoVulnerableBank](https://github.com/CSPF-Founder/DodoVulnerableBank)
+* [Digitalbank](https://github.com/CyberScions/Digitalbank)
+* [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [AppKnox Vulnerable Application](https://github.com/appknox/vulnerable-application)
+* [Vulnerable Android Application](https://github.com/Lance0312/VulnApp)
+* [MoshZuk](https://dl.dropboxusercontent.com/u/37776965/Work/MoshZuk.apk)
+* [Hackme Bank](http://www.mcafee.com/us/downloads/free-tools/hacme-bank-android.aspx)
+* [Android Security Labs](https://github.com/SecurityCompass/AndroidLabs)
+* [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Android-security](https://github.com/rafaeltoledo/android-security)
+* [VulnDroid](https://github.com/shahenshah99/VulnDroid)
+
 
