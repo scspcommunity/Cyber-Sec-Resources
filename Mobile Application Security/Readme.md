@@ -1,4 +1,4 @@
-Resources for Mobile Applicatio Testing
+Resources for Mobile Application Testing
 
 # Android
 
