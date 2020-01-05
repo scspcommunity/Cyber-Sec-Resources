@@ -19,7 +19,7 @@ Table of Contents
 * [Exploit Development Resources](#exploit_dev)
 * [Tools](#tools)
 * [Web Application Security](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Web%20Application%20Security)
-* [Mobile Applicatio Security](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security)
+* [Mobile Application Security](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security)
 * [How-to Tutorials](#tutorials)
 * [Capture The Flag Walk-throughs](#ctf)
 * [Online Labs for Practice](#weblabs)
