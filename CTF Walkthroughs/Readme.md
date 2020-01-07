@@ -3,4 +3,4 @@
 
 ## Back[⤴](https://github.com/scsp-community/Cyber-Sec-Resources)
 
-* [Basic Pentesting 1](https://www.youtube.com/watch?v=yfGj0yyG5KE)
+* [Basic Pentesting 1](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/CTF%20Walkthroughs/Basic%20Pentesting%201.pdf)
