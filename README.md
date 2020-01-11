@@ -15,17 +15,17 @@ Table of Contents
 * [Basics of Web and Networks](#basics-web-nw)
 * [Programming Resources](#prog)
 * [Resources and Write-ups](#resources)
-* [Data Protection](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Data%20Protection)
+* [Data Protection](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Data%20Protection)
 * [Exploit Development Resources](#exploit_dev)
 * [Tools](#tools)
 * [SIEM Solution](#siem)
-* [Web Application Security](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Web%20Application%20Security)
-* [Mobile Application Security](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security)
+* [Web Application Security](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Web%20Application%20Security)
+* [Mobile Application Security](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Mobile%20Application%20Security)
 * [How-to Tutorials](#tutorials)
 * [Capture The Flag Walk-throughs](#ctf)
 * [Online Labs for Practice](#weblabs)
 * [Vulnerable Virtual Machines](#vuln_vms)
-* [SNORT IPS IDS](https://github.com/scsp-community/Cyber-Sec-Resources/tree/master/SNORT%20IPS-IDS)
+* [SNORT IPS IDS](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/SNORT%20IPS-IDS)
 * [Vulnerability Databases](#vuln_db)
 * [SCSP Seminar Presentation slides](#presentations)
 
@@ -194,10 +194,10 @@ A basic understanding of networking is important for anyone who’s into cyberse
 ##  Resources and Write-ups [⤴](#table-of-contents)
 * [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
 * [What is Intrusion Detection System and Intrusion Prevention System](https://www.youtube.com/watch?v=dy1S_-tZNDs)
-* [Server Side Template Injection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Web%20Application%20Security/SSTI.md)
-* [Snort Installation on Kali Linux](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Installation%20Guide.pdf)
-* [Detection of DoS Attack via Snort](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Working%20PoC.pdf)
-* [Data Privacy and Protection](https://github.com/scsp-community/Cyber-Sec-Resources/blob/master/Data%20Protection/Data%20Protection%20and%20Privacy.pptx)
+* [Server Side Template Injection](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Web%20Application%20Security/SSTI.md)
+* [Snort Installation on Kali Linux](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Installation%20Guide.pdf)
+* [Detection of DoS Attack via Snort](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Working%20PoC.pdf)
+* [Data Privacy and Protection](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Data%20Protection/Data%20Protection%20and%20Privacy.pptx)
 
 <a name="exploit_dev"></a>
 ## Exploit Development Resources [⤴](#table-of-contents)
@@ -239,6 +239,7 @@ A basic understanding of networking is important for anyone who’s into cyberse
 <a name="ctf"></a>
 ## Capture The Flag Walk-throughs [⤴](#table-of-contents)
 * [Basic Pentesting 1](https://www.youtube.com/watch?v=yfGj0yyG5KE)
+* [Mr.Robot (OSCP-like)(https://www.youtube.com/watch?v=KdV-xQ4LVU8&fbclid=)
 
 <a name="weblabs"></a>
 ##  Online Labs for Practice [⤴](#table-of-contents)
