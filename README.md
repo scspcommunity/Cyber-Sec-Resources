@@ -28,6 +28,7 @@ Table of Contents
 * [SNORT IPS IDS](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/SNORT%20IPS-IDS)
 * [Vulnerability Databases](#vuln_db)
 * [SCSP Seminar Presentation slides](#presentations)
+* [Bug Bounty Hunting](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 
 <a name="books"></a>
