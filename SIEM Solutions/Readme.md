@@ -14,4 +14,8 @@
 
 * [Open Source SIEM Tools](https://logz.io/blog/open-source-siem-tools/)
 
+### Use Cases for SIEM
 
+* [SIEM Use Cases Part 1](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%201.pdf)
+* [SIEM Use Cases Part 2](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%202.pdf)
+* [SIEM Use Cases Part 3](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%203.pdf)
