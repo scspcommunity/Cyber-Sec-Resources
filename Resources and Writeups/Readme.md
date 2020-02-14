@@ -7,5 +7,10 @@
 * [Snort Installation on Kali Linux](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Installation%20Guide.pdf)
 * [Detection of DoS Attack via Snort](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Working%20PoC.pdf)
 * [Data Privacy and Protection](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Data%20Protection/Data%20Protection%20and%20Privacy.pptx)
+* [XXE Vulnerability Explanation](https://www.youtube.com/watch?v=IHKsaJOxQcA&list=PL7yUP1guJz7c6-A-fGo8-CXeAtCWNcj3m&index=5&t=0s)
+* [XXE Vulnerability Lab](https://www.youtube.com/watch?v=jUSkMQb8Df4&list=PL7yUP1guJz7c6-A-fGo8-CXeAtCWNcj3m&index=5)
+* [Building a Port Scanner with Python](https://www.youtube.com/watch?v=jUSkMQb8Df4&list=PL7yUP1guJz7c6-A-fGo8-CXeAtCWNcj3m&index=5)
+* [Introducution to Github](https://www.youtube.com/watch?v=4WrElraaXYw)
+* [Buffer Overflow Vulnerability](https://www.youtube.com/watch?v=1dL0U2OhvH0&list=PL7yUP1guJz7c6-A-fGo8-CXeAtCWNcj3m&index=2&t=0s)
 
 
