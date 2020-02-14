@@ -11,7 +11,10 @@ An organized list of resources including tools, blog-posts and how-to tutorials 
 
 Table of Contents
 =================
+* [Content by SCSP](#scsp)
 * [Books](#books)
+* [Interview Questions](#ques)
+* [Linux Basics](#linux)
 * [Basics of Web and Networks](#basics-web-nw)
 * [Programming Resources](#prog)
 * [Resources and Write-ups](#resources)
@@ -29,6 +32,29 @@ Table of Contents
 * [Vulnerability Databases](#vuln_db)
 * [SCSP Seminar Presentation slides](#presentations)
 * [Bug Bounty Hunting](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
+
+
+
+
+
+<a name="scsp"></a>
+##  Content By SCSP [⤴](#table-of-contents)
+* [Linux Privilege Escalation Cheat Sheet](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Linux%20Privilege%20Escalation%20Cheat%20Sheet.pdf)
+* [Memory Forensics Cheat Sheet](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Memory%20Forensics%20Cheat%20Sheet.pdf)
+* [OSCP Cheat Sheet Part 1](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/OCSP%20Cheat%20Sheet.pdf)
+* [OSCP Cheat Sheet Part 2](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/OCSP%20Cheat%20Sheet%20Part%202.pdf)
+* [SIEM Use Cases Part 1](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%201.pdf)
+* [SIEM Use Cases Part 2](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%202.pdf)
+* [SIEM Use Cases Part 3](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%203.pdf)
+* [Subdomain Enumeration Cheat Sheet](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Subdomain%20Enumeration%20Cheat%20Sheet.pdf)
+* [Types of Windows Authentication](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Types%20of%20Windows%20Authentication%20Mechanisms.pdf)
+* [Where to find OWASP Top 10 Mobile Vulnerabilities](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Where%20to%20find%20the%20OWASP%20Mobile%20Top%2010%20Vulnerabilities.pdf)
+* [Windows Privilege Escalation Cheat Sheet](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Windows%20Privilege%20Escalation%20Cheat%20Sheet.pdf)
+* [Bug Bounty Tips](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Misc%20Content%20By%20SCSP/Bug%20Bounty%20Tips)
+* [OSINT Tools for Reconnaissance](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Misc%20Content%20By%20SCSP/OSINT%20Tools)
+
+
+
 
 
 <a name="books"></a>
@@ -90,6 +116,29 @@ Table of Contents
 ### Python for Hackers 
 * Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz
 * Violent Python by TJ O'Connor
+
+
+
+
+
+<a name="linux"></a>
+## Linux Basics [⤴](#table-of-contents)
+* [Basic Commands for Linux](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Linux%20Basics/Basics%20of%20Linux%20Commands.pdf)
+
+
+
+
+
+<a name="ques"></a>
+##  Interview Questions [⤴](#table-of-contents)
+* [Interview Questions for Penetration Testers](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Interview%20Questions/Interview%20Questions%20for%20Penetration%20Testers.pdf)
+* [Interview Questions for SOC Analysts](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Interview%20Questions/Interview%20Questions%20for%20SOC%20Analyst.pdf)
+* [Interview Questions for Digital Forensics Investigators](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Interview%20Questions/Interview%20Questions%20for%20Digital%20Forensics%20Investigator.pdf)
+* [Interview Questions for Application Security Testers](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Interview%20Questions/Interview%20Questions%20for%20Application%20Security%20Testers.pdf)
+
+
+
+
 
 <a name="basics-web-nw"></a>
 ##  Basics of Web and Networks [⤴](#table-of-contents)
@@ -191,6 +240,11 @@ A basic understanding of networking is important for anyone who’s into cyberse
 > https://www.udemy.com/learn-go-the-complete-bootcamp-course-golang/<br>
 
 
+
+
+
+
+
 <a name="resources"></a>
 ##  Resources and Write-ups [⤴](#table-of-contents)
 * [How Antivirus Works](https://www.youtube.com/watch?v=nEf5nnHyv4c)
@@ -200,6 +254,11 @@ A basic understanding of networking is important for anyone who’s into cyberse
 * [Detection of DoS Attack via Snort](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/SNORT%20IPS-IDS/SNORT%20Working%20PoC.pdf)
 * [Data Privacy and Protection](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Data%20Protection/Data%20Protection%20and%20Privacy.pptx)
 
+
+
+
+
+
 <a name="exploit_dev"></a>
 ## Exploit Development Resources [⤴](#table-of-contents)
 * [Exploit Writing Tutorials](https://www.corelan.be/index.php/2009/07/19/exploit-writing-tutorial-part-1-stack-based-overflows/) - Tutorials on how to develop exploits.
@@ -208,18 +267,31 @@ A basic understanding of networking is important for anyone who’s into cyberse
 
 
 
+
+
 <a name="tools"></a>
 ## Tools [⤴](#table-of-contents)
 (Coming Soon)
 
-<a name="siem"></a>
 
+
+
+
+
+<a name="siem"></a>
 ## SIEM Solutions
 
 * [What is SIEM? A Beginner’s Guide](https://www.varonis.com/blog/what-is-siem/)
 * [OSSEC and ELK as a unified SIEM](https://medium.com/devoops-and-universe/ossec-and-elk-as-an-unified-security-information-and-event-management-system-siem-bcc5f310a733)
 * [SANS - Creating Your Own SIEM and Incident Response Toolkit Using Open Source Tools](https://www.sans.org/reading-room/whitepapers/logging/creating-siem-incident-response-toolkit-open-source-tools-33689)
 * [Open Source SIEM Tools](https://logz.io/blog/open-source-siem-tools/)
+* [SIEM Use Cases Part 1](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%201.pdf)
+* [SIEM Use Cases Part 2](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%202.pdf)
+* [SIEM Use Cases Part 3](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%203.pdf)
+
+
+
+
 
 
 <a name="tutorials"></a>
@@ -235,12 +307,48 @@ A basic understanding of networking is important for anyone who’s into cyberse
 * [Kali Tools - CherryTree](https://youtu.be/vlmlb2kqbfo)
 * [Kali Tools - Davtest](https://www.youtube.com/watch?v=fyubocGC8iY)
 * [Kali Tools - DNSEnum](https://youtu.be/aoCHj0Eh5JA)
+* [Kali Tools - Apache Users](https://www.youtube.com/watch?v=RxIfopiayQU&list=PL7yUP1guJz7f-vpZYch_TDLRX_C_sei6Y&index=5&t=0s)
+* [Kali Tools - URL Crazy ](https://www.youtube.com/watch?v=fxCgBHaO6Yg&list=PL7yUP1guJz7f-vpZYch_TDLRX_C_sei6Y&index=6&t=0s)
+* [Kali Tools - Enum4linux](https://www.youtube.com/watch?v=1rxggQlPCBo&list=PL7yUP1guJz7f-vpZYch_TDLRX_C_sei6Y&index=7&t=0s)
+* [Kali Tools - Searchsploit ](https://www.youtube.com/watch?v=xxbsZVoTpGs&list=PL7yUP1guJz7f-vpZYch_TDLRX_C_sei6Y&index=8&t=0s)
+* [Kali Tools - Crunch ](https://www.youtube.com/watch?v=eYxbJOHgshE&list=PL7yUP1guJz7f-vpZYch_TDLRX_C_sei6Y&index=4&t=0s)
+* [Kali Tools - SSLstrip](https://www.youtube.com/watch?v=D3NemrhZQSc&list=PL7yUP1guJz7f-vpZYch_TDLRX_C_sei6Y&index=2&t=0s)
+* [Kali Tools - SSLyze](https://www.youtube.com/watch?v=DvwHOIkzBiI&list=PL7yUP1guJz7f-vpZYch_TDLRX_C_sei6Y&index=3&t=0s)
+* [OSINT Tools - Buster](https://www.youtube.com/watch?v=KXU1674j7fo&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=2&t=0s)
+* [OSINT Tools - Danger Zone](https://www.youtube.com/watch?v=-ATtptQLzRU&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=3&t=0s)
+* [OSINT Tools - R3con1z3r](https://www.youtube.com/watch?v=Jg3yibNeYcQ&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=4&t=0s)
+* [OSINT Tools - Shodan](https://www.youtube.com/watch?v=9A77BUaHXmY&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=5&t=0s)
+* [OSINT Tools - theHarvester](https://www.youtube.com/watch?v=kNA8Z4fDJbI&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=6&t=0s)
+* [OSINT Tools - TinEye](https://www.youtube.com/watch?v=QfQvPE22p0U&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=7&t=0s)
+* [OSINT Tools - SpiderFoot](https://www.youtube.com/watch?v=NE9jrv59HQg&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=8&t=0s)
+* [OSINT Tools - Metagoofil](https://www.youtube.com/watch?v=tnWYZns2OZI&list=PL7yUP1guJz7fZNfZM-zkUieKSeA1TCG2S&index=9&t=0s)
+
+
+
+
+
 
 
 <a name="ctf"></a>
 ## Capture The Flag Walk-throughs [⤴](#table-of-contents)
 * [Basic Pentesting 1](https://www.youtube.com/watch?v=yfGj0yyG5KE)
-* [Mr.Robot (OSCP-like)(https://www.youtube.com/watch?v=KdV-xQ4LVU8&fbclid=)
+* [Mr.Robot (OSCP-like)](https://www.youtube.com/watch?v=KdV-xQ4LVU8&fbclid=)
+* [PwnLab:init (OSCP-like) ](https://www.youtube.com/watch?v=ZFAjL3nieYw&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=2&t=0s)
+* [Fristileaks 1.3 (OSCP-like)](https://www.youtube.com/watch?v=7xIvStZIeTk&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=3&t=0s)
+* [Vulnix (OSCP-like)](https://www.youtube.com/watch?v=KFfJ2ww8REI&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=4&t=0s)
+* [Stapler 1 (OSCP-like)](https://www.youtube.com/watch?v=aIDW-MIJrQU&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=6&t=0s)
+* [Remote Vulnerability 101 - Pentester Academy](https://www.youtube.com/watch?v=rZ5NQL255J0&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=7&t=0s)
+* [Brainpan 1 (OSCP-like)](https://www.youtube.com/watch?v=061sYEQOwIc&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=8&t=0s)
+* [VulnOS 2 (OSCP-like)](https://www.youtube.com/watch?v=41gKa6eD2Wg&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=9&t=0s)
+* [Kioptrix 1 (OSCP-like)](https://www.youtube.com/watch?v=mpWr45Wp9II&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=10&t=0s)
+* [SickOS 1,1 (OSCP-like)](https://www.youtube.com/watch?v=CGw8nm0PtBk&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=11&t=0s)
+* [SkyTower (OSCP-like)](https://www.youtube.com/watch?v=WMG3QGrHltQ&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=12&t=0s)
+* [Tr0ll 1 (OSCP-like)](https://www.youtube.com/watch?v=6UP7d6Mw0ok&list=PL7yUP1guJz7fdQbfBBftRicEZeHUmJn3g&index=14&t=0s)
+
+
+
+
+
 
 <a name="weblabs"></a>
 ##  Online Labs for Practice [⤴](#table-of-contents)
@@ -312,6 +420,8 @@ Develop an OTA (Over-The-Air) package from scratch to root an Android device.
 
 
 
+
+
 <a name="vuln_vms"></a>
 ##  Vulnerable Virtual Machines [⤴](#table-of-contents)
 * [Damn Vulnerable Web Application (DVWA)](https://github.com/ethicalhack3r/DVWA)<br>
@@ -326,6 +436,11 @@ The OWASP Security Shepherd project is a web and mobile application security tra
 A collection of vulnerable machines to practice on. You can download the vulnerable vms on your system and learn pentesting
 * [Hack the box](https://www.hackthebox.eu/)<br>
 A collection of vulnerable machines and challenges
+
+
+
+
+
 
 
 
@@ -344,6 +459,11 @@ List of resources containing known list of exploits and common vulnerabilities f
 * [National Vulnerability Database (NVD)](https://nvd.nist.gov/)
 * [Vulnerability Lab](https://www.vulnerability-lab.com/) 
 * [Zero Day Initiative](http://zerodayinitiative.com/advisories/published/) 
+
+
+
+
+
 
 
 <a name="presentations"></a>
