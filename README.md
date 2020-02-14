@@ -33,16 +33,16 @@ Table of Contents
 * [SCSP Seminar Presentation slides](#presentations)
 * [Bug Bounty Hunting](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
-
-
-
+<br/>
+<br/>
+<br/>
 
 <a name="scsp"></a>
 ##  Content By SCSP [⤴](#table-of-contents)
 * [Linux Privilege Escalation Cheat Sheet](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Linux%20Privilege%20Escalation%20Cheat%20Sheet.pdf)
 * [Memory Forensics Cheat Sheet](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/Memory%20Forensics%20Cheat%20Sheet.pdf)
 * [OSCP Cheat Sheet Part 1](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/OCSP%20Cheat%20Sheet.pdf)
-* [OSCP Cheat Sheet Part 2](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/OCSP%20Cheat%20Sheet%20Part%202.pdf)
+* [OSCP Cheat Sheet Part 2](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/OCSP%20Cheat%20Sheet%20Part%202.pdf) 
 * [SIEM Use Cases Part 1](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%201.pdf)
 * [SIEM Use Cases Part 2](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%202.pdf)
 * [SIEM Use Cases Part 3](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%203.pdf)
@@ -54,7 +54,9 @@ Table of Contents
 * [OSINT Tools for Reconnaissance](https://github.com/scspcommunity/Cyber-Sec-Resources/tree/master/Misc%20Content%20By%20SCSP/OSINT%20Tools)
 
 
-
+<br/>
+<br/>
+<br/>
 
 
 <a name="books"></a>
@@ -117,6 +119,9 @@ Table of Contents
 * Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz
 * Violent Python by TJ O'Connor
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -126,6 +131,9 @@ Table of Contents
 * [Basic Commands for Linux](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Linux%20Basics/Basics%20of%20Linux%20Commands.pdf)
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -138,6 +146,9 @@ Table of Contents
 
 
 
+<br/>
+<br/>
+<br/>
 
 
 <a name="basics-web-nw"></a>
@@ -241,6 +252,9 @@ A basic understanding of networking is important for anyone who’s into cyberse
 
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -255,6 +269,9 @@ A basic understanding of networking is important for anyone who’s into cyberse
 * [Data Privacy and Protection](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Data%20Protection/Data%20Protection%20and%20Privacy.pptx)
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -266,6 +283,9 @@ A basic understanding of networking is important for anyone who’s into cyberse
 * [Shellcode Tutorial](http://www.vividmachines.com/shellcode/shellcode.html) - Tutorial on how to write shellcode.
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -275,6 +295,9 @@ A basic understanding of networking is important for anyone who’s into cyberse
 
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -290,6 +313,9 @@ A basic understanding of networking is important for anyone who’s into cyberse
 * [SIEM Use Cases Part 3](https://github.com/scspcommunity/Cyber-Sec-Resources/blob/master/Misc%20Content%20By%20SCSP/SIEM%20Use%20Cases%20Part%203.pdf)
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -325,6 +351,9 @@ A basic understanding of networking is important for anyone who’s into cyberse
 
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -347,6 +376,9 @@ A basic understanding of networking is important for anyone who’s into cyberse
 
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -418,6 +450,9 @@ Develop an OTA (Over-The-Air) package from scratch to root an Android device.
 * [VulnDroid](https://github.com/shahenshah99/VulnDroid)
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -439,6 +474,9 @@ A collection of vulnerable machines and challenges
 
 
 
+<br/>
+<br/>
+<br/>
 
 
 
@@ -463,6 +501,9 @@ List of resources containing known list of exploits and common vulnerabilities f
 
 
 
+<br/>
+<br/>
+<br/>
 
 
 
