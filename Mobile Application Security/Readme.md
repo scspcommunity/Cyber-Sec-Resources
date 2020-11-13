@@ -4,6 +4,12 @@ Resources for Mobile Application Testing
 
 ### Blogs, Papers, How To's
   
+* [Evernote: Universal-XSS, theft of all cookies from all sites, and more](https://blog.oversecured.com/Evernote-Universal-XSS-theft-of-all-cookies-from-all-sites-and-more/)
+* [Interception of Android implicit intents](https://blog.oversecured.com/Interception-of-Android-implicit-intents/)
+* [TikTok: three persistent arbitrary code executions and one theft of arbitrary files](https://blog.oversecured.com/Oversecured-detects-dangerous-vulnerabilities-in-the-TikTok-Android-app/)
+* [Persistent arbitrary code execution in Android's Google Play Core Library: details, explanation and the PoC - CVE-2020-8913](https://blog.oversecured.com/Oversecured-automatically-discovers-persistent-code-execution-in-the-Google-Play-Core-Library/)
+* [Android: Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
+* [Android: arbitrary code execution via third-party package contexts](https://blog.oversecured.com/Android-arbitrary-code-execution-via-third-party-package-contexts/)
 * [An Android Hacking Primer](https://medium.com/swlh/an-android-hacking-primer-3390fef4e6a0)
 * [Secure an Android Device](https://source.android.com/security)
 * [Security tips](https://developer.android.com/training/articles/security-tips)
