@@ -211,6 +211,7 @@ A basic understanding of networking is important for anyone who’s into cyberse
 > https://www.codecademy.com/learn/introduction-to-javascript<br>
 > https://learnjavascript.today/<br>
 > https://www.thebalancecareers.com/learn-javascript-online-2071405<br>
+> https://www.scaler.com/topics/javascript/<br>
 
 ### SQL(Structured Query Language):
 > https://www.youtube.com/watch?v=HXV3zeQKqGY<br>
